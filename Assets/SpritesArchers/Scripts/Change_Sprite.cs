@@ -31,5 +31,6 @@ public class Change_Sprite : MonoBehaviour {
 			Archers [currentArcher].SetActive (true);	
 			
 		}
-	}
+
+    }
 }
